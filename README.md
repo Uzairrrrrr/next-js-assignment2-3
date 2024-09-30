@@ -1,0 +1,1 @@
+This is a Simple portfolio build on Next.js for assignment.
